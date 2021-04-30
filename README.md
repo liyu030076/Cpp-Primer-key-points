@@ -1,4 +1,4 @@
-# C-Primer-key-points
+# C++-Primer-key-points
 1. 该仓库 包含 C++ 书籍 《C++ Primer》中 的 重点知识点
 2. 尽量 以 引导的思路 行文, 以形成 树状 知识体系
 3. 对每个知识点, 尽量给出 精简而完整 的 程序示例
